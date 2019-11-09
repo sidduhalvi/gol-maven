@@ -495,7 +495,7 @@
             </reporting>
  <repositories>
      <repository>
-        <id>central</id>
+        <id>sindhu</id>
         <name>sindhu</name>
         <url>http://35.226.221.5:8081/artifactory/sindhu</url>
     </repository>
