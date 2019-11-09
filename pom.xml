@@ -496,8 +496,8 @@
  <repositories>
      <repository>
         <id>central</id>
-        <name>ip-172-31-41-57.ec2.internal-releases</name>
-        <url>http://34.227.100.154:8081/artifactory/gameoflif</url>
+        <name>sindhu</name>
+        <url>http://35.226.221.5:8081/artifactory/sindhu</url>
     </repository>
       </repositories>
 
